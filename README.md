@@ -7,7 +7,7 @@
 phpxorbase64流量修改前
 <img width="948" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/5b38b145-5bfd-4c17-a7fc-f48cc7de58d8">  
 修改后  
-<img width="640" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/d31f2cad-cfd8-46e3-ba16-1496d3eac464">  
+<img width="634" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/fa5e98ee-1989-4566-a2b9-4a623cb55305">  
 配合405模拟阿里云waf免杀  
 <img width="638" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/dbed2d1b-64a0-479f-8936-69f08aba13aa">  
 <img width="606" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/e7e37c65-6068-403a-a196-1fd465c88fd7">  
