@@ -1,7 +1,7 @@
 # Z-Godzilla_ekp
 ### 哥斯拉webshell二次开发规避流量检测设备  
 
-二开详细教程在微信公众号：艾克sec
+二开详细教程在微信公众号：艾克sec  
 目前测了国内两安全厂商的态感，连接和执行命令无任何告警  
 ~~现在改了php和java的，后续尽快新增net的~~   
 java，net，php 流量修改已经全部支持，以后还会集成一键免杀功能和一些插件
@@ -31,8 +31,9 @@ java AESbase64流量修改后
 
 注：使用二开版本生成的webshell，用普通版本的哥斯拉是连不上的（选项中需要选择二开版本模式进行连接）
 
+## Star History
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=kong030813/Z-Godzilla_ekp&type=Date)](https://star-history.com/#kong030813/Z-Godzilla_ekp&Date)
 
 
 
