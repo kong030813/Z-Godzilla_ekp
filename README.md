@@ -7,7 +7,7 @@
 java，net，php 流量修改已经全部支持，以后还会集成一键免杀功能和一些插件
 觉得好用的师傅点点star～(更新的动力！！！)
 #### 1.1更新
-许多师傅提出市面上net webshell免杀工具较少，想隐匿流量却对默认生成的shell不会免杀，这里首先更新一下net的生成即免杀（后续推出其他语言的免杀以及随机html流量）  
+许多师傅提出市面上net webshell免杀工具较少，想隐匿流量却对默认生成的shell不会免杀，这里首先更新一下net的生成即免杀（后续推出其他语言的免杀以及随机html流量，最近很多攻防，还有学校的考试课，太忙了，师傅们体谅一下）  
 使用方法：  
 生成webshell选择bypass1(尽量不要用默认密码密钥，安天的引擎只要你输入pass和key就报红，aspx的马报jspwebshell就很离谱。。。）   
 <img width="640" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/87b86418-ad9f-49f7-bc4c-00e8634654c4">  
