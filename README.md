@@ -22,10 +22,10 @@ java，net，php 流量修改已经全部支持，以后还会集成一键免杀
 
 #### 流量修改效果  
 1.去除cookie后分号强特征  
-2.去除响应包中md5前后16位匹配强特征
-3.去除ua头等等弱特征
-4.修改请求包和响应包伪装成正常流量
-phpxorbase64流量修改前
+2.去除响应包中md5前后16位匹配强特征  
+3.去除ua头等等弱特征  
+4.修改请求包和响应包伪装成正常流量  
+phpxorbase64流量修改前  
 <img width="948" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/5b38b145-5bfd-4c17-a7fc-f48cc7de58d8">  
 修改后  
 <img width="634" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/fa5e98ee-1989-4566-a2b9-4a623cb55305">   
