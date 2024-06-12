@@ -7,7 +7,7 @@
 java，net，php 流量修改已经全部支持，以后还会集成一键免杀功能和一些插件
 觉得好用的师傅点点star～(更新的动力！！！)
 #### 1.1更新
-许多师傅提出市面上net webshell免杀工具较少，想隐匿流量却对默认生成的shell不会免杀，这里首先更新一下net的生成即免杀（后续推出其他语言的免杀以及随机html流量，最近很多攻防，还有学校的考试课，太忙了，师傅们体谅一下）  
+许多师傅提出市面上net webshell免杀工具较少，想隐匿流量却对默认生成的shell不会免杀，这里首先更新一下net的生成即免杀以及随机html（后续推出其他语言的免杀，最近很多攻防，还有学校的考试课，太忙了，师傅们体谅一下）  
 使用方法：  
 生成webshell选择bypass1(尽量不要用默认密码密钥，安天的引擎只要你输入pass和key就报红，aspx的马报jspwebshell就很离谱。。。）   
 <img width="640" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/87b86418-ad9f-49f7-bc4c-00e8634654c4">  
@@ -15,18 +15,20 @@ java，net，php 流量修改已经全部支持，以后还会集成一键免杀
 <img width="1444" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/6d4780ba-c322-4bd9-b303-f489e2441f17">  
 <img width="697" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/e56e264d-a23c-4953-bcb4-123f54114bf8">
 <img width="697" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/a732cd0e-f2b8-4973-9899-cd3ca1d49ac6"> 
-<img width="705" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/1ac7d306-1da7-4d4b-ac44-3fc2f23c5ed8">
+<img width="705" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/1ac7d306-1da7-4d4b-ac44-3fc2f23c5ed8">  
+<img width="1294" alt="图片" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/557f1c5f-f8f6-43eb-87ff-8ff174a54d35">  
 
 
-#### 流量修改效果
+
+#### 流量修改效果  
+1.去除cookie后分号强特征  
+2.去除响应包中md5前后16位匹配强特征
+3.去除ua头等等弱特征
+4.修改请求包和响应包伪装成正常流量
 phpxorbase64流量修改前
 <img width="948" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/5b38b145-5bfd-4c17-a7fc-f48cc7de58d8">  
 修改后  
 <img width="634" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/fa5e98ee-1989-4566-a2b9-4a623cb55305">   
-java AESbase64流量修改前  
-<img width="917" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/7482473d-20a2-43bc-b648-0bdcf52e93a7">  
-java AESbase64流量修改后
-<img width="1102" alt="image" src="https://github.com/kong030813/Z-Godzilla_ekp/assets/97926809/f3f0243b-5b79-4887-a7d5-999463723107">  
 
 #### 使用方法：  
 直接生成webshell再用网上的工具或者自己的免杀方法进行免杀（后续可能会提供一键免杀的功能）  
